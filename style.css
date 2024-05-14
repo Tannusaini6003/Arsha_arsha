@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-item .nav-link:hover{
+    color:#07a2ea !important;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #255180 !important;
+    z-index: 999;
+}
+.home-page{
+    background-color: #104379;
+
+}
+.home-page .head1{
+    font-size: 50px !important;
+    margin-top: 15% !important;
+}
+.home-page p{
+    font-size: 20px !important;
+}
+.home-page .btn button{
+   
+    border: none !important;
+  
+   
+  
+   
+}
+.home-page .btn button:hover{
+    background-color: blue !important;
+    border: none;
+}
+.watch:hover{
+    color: #5cc8fa !important;
+
+}
+.yellow{
+    margin-left: -20% !important;
+}
+.red{
+    margin-left: -10% !important;
+
+}
+
+
+.home-page .image{
+    position: relative;
+    animation-name: nnnn;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes nnnn{
+    0%{
+        top: 0;
+        left: 0;
+    }
+    50%{
+        top: 12px;
+        left: 0;
+    }
+    100%{
+        top: 0;
+        left: 0;
+    }
+}
+.row .client{
+    margin: 20px !important;
+
+}
+.client{
+    filter: grayscale(200) !important;
+    transition: 1s;
+}
+.client:hover{
+    filter: none !important;
+    transform: scale(1.1);
+}
+.row .about{
+    color: #104379;
+    font-family: Timmana;
+    
+}
+.row .learn{
+    background-color: white !important;
+    width: 30%;
+}
+.row .learn:hover{
+    background-color: #07a2ea !important;
+    color: white !important;
+}
+ .eum{
+    color: #0d57a7 !important;
+    font-size: 35px !important;
+    font-weight:400 !important;
+    
+}
+.accordion-item{
+    padding: 10px;
+    border: none !important;
+  
+}
+.accordion-item .accordion-button{
+    font-weight: bold !important;
+    border: none !important;
+}
+.accordion-item .accordion-button:hover{
+    color: #67c4ef !important;
+}
+.accordion-item .accordion-body{
+    border: none !important;
+}
+.row .text{
+    color: #0f3b6b !important;
+   
+}
+.row h6{
+    color: #0f3b6b !important;
+    font-weight: bold;
+    margin-top: 10px !important;
+    padding-top: 5px !important;
+   
+}
+ .progress .progress-bar{
+    background-color: #114884 !important;
+   
+
+}
+.row .white{
+    color: white !important;
+}
+.row h1{
+    color: #0f3b6b !important;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.card-body .pop{
+    text-decoration: none;
+    
+    color: #05284f !important;
+}
+.card-body .pop:hover{
+    color: #67c4ef !important;
+   
+}
+.action{
+    background-image: url(image/building2.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100% !important;
+    height: 450px;
+    background-position: fixed;
+   
+}
+.menu{
+    background-color: #05284f6d !important;
+    opacity: 1;
+   
+    height: 450px;
+
+}
+ .del{
+    background-color:#05284f6d !important;
+    opacity: 1;
+    
+ 
+    
+}
+ .del:hover{
+    background-color: #07a2ea !important;
+    border: none !important;
+}
+.card-title{
+    color: #05284f !important;
+
+}
+.btn9 .btn10:hover{
+    background-color: #07a2ea !important;
+    color: white !important;
+    
+}
+.accordion-item .pagal{
+    color: #053160 !important;
+}
+.card-title{
+    color: #053160 !important;
+}
+.dabbb{
+    background-color: #b9e6fa !important;
+}
+.dabbb:hover{
+    background-color: #07a2ea !important;
+    color: white !important;
+}
+.news{
+    background-color:rgb(239, 249, 253) !important;
+}
+.subs{
+    margin-left: -18% !important;
+}
+
+.subs:hover{
+    background-color: #05b0ff !important;
+
+}
+.aryan1{
+    color:#053160 !important;
+}
+li{
+   list-style-type: none !important;
+    
+}
+.aryan:hover{
+    color: #078dcb !important;
+
+}
+.copy{
+    background-color: #4d76a1 !important;
+}
+.made{
+    color: #022449 !important;
+}
+.port1{
+    width: 100% !important;
+    height: 40% !important;
+}
+.port2{
+    width: 100% !important;
+    height: 25% !important;
+}
+.port3{
+    width: 100% !important;
+    height: 25% !important;
+}
+.port4{
+    width: 100% !important;
+      height: 60% !important;
+
+  }
+  .mmm{
+        margin-left: -10% !important;
+  }
+  .nnn{
+    margin-left: -0% !important;
+  }
+
+
+
+
+
+
+
+
+
